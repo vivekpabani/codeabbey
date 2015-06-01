@@ -9,6 +9,8 @@ Answer should contain the results separated by spaces.
 */
 
 int main(void){
+  
+  /* Take Count */
 
   return 1;
 }
