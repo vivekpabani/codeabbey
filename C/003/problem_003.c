@@ -12,5 +12,8 @@ int main(void){
   
   /* Take Count */
 
+  /* loop over pairs*/
+  
+  /* sum of ech pair*/
   return 1;
 }
